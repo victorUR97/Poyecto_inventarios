@@ -16,11 +16,12 @@ This project allows users to manage inventory using a MySQL database and Python 
   - `pandas`
   - `mysql-connector-python`
 
-## How to user
+## How to use
 Set up environment variables in a .env file:
 "MYSQL_HOST=your_host
 MYSQL_USER=your_username
 MYSQL_PASSWORD=your_password
 MYSQL_DATABASE=your_database
 MYSQL_PORT=3306"
+
 Run the main script: Gestion_inventarios.py
